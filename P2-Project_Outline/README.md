@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a Movie Order Form.  This idea came from my current work place where we have customer who order movies monthly for their digital playback in hospitals.  It will need to have the suggested movie list with checkboxes so they can select their titles.  It should go to a cart where they can review and a place where they enter their name and hospital and the list of movies to remove.  Review all and submit which will email to a certain inbox.  
 ### Features
-Include Features here
+selection boxes, cart, enter information fields and submit to an email.
 ### Technologies
-Include Technologies here
+I only know angular and javascript
 ### What I'll Have to Learn
-Include what you will need to learn here
+a lot
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/UzNgaRsl/liftoff
